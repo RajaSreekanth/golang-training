@@ -1,0 +1,65 @@
+Pushkin Vertigo publisher For thriller books.
+web serires: Downtown Abbey
+
+To check which OTT is streaming your favourite show www.justwatch.com
+
+
+In Golang Concurrency is supported in language, not from API. The language is built for concurrency.
+Go has built-in scheduler
+We can run 1000s of concurrent operations in 1 thread
+
+No concept of exceptions, only errors.
+Golang is built for concurrency
+
+Simplest language
+   only 25 keywords
+   no classes
+   		only structs & functions
+   		Compositions over inheritence
+   		
+
+Visual Studio is good IDE for Golang
+Another commercial IDE is goland from jetbrains
+
+GOROOT is the env variable which points the folder where all go tools are installed
+
+Variables:
+
+If you define a variable at function level and did not use it, it throws compile error.
+
+e.g., myVar declared but not used
+
+reference Book: Working with legacy code.
+
+Data types in Go
+
+bool
+string 
+
+int8
+int16
+int32
+int64
+
+uint8
+uint16
+uint32
+uint64
+
+float32
+float64
+
+complex64 - (real float32, imaginary float32)
+complex128 - (real float64, imaginary float64)
+
+byte (alias for uint8)
+rune (alias for int32, representing 1 unicode character)
+
+Constructs:
+if else, switch case, for 
+
+switch doesn't need explicit `break`
+
+No concept of function overloading
+functions can return more than one value
+

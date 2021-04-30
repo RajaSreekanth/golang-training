@@ -1,0 +1,14 @@
+Collections: GO offers only three types of Collections
+    Array
+        Fixed size Collection
+        Data has to be of same type
+
+    Slice
+        Variable size Collections
+        It uses an Array internally
+        Data has to be of same type
+    Map
+        Collection of key value pairs
+        The type of key and value are customizable
+
+    In GO by default everything is passed by value
